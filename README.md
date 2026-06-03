@@ -114,11 +114,13 @@ shashwat = {
 
 ---
 
-## 🏅 GitHub Trophies
+## 🏅 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ishashwatt&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishashwatt&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ishashwatt&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
 
