@@ -116,9 +116,11 @@ shashwat = {
 
 ## 🏅 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ishashwatt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ishashwatt&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
+
+</div>
 
 ---
 
@@ -126,9 +128,9 @@ shashwat = {
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ishashwatt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api?username=ishashwatt&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishashwatt&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+<img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ishashwatt&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10"/>
 
 </div>
 
@@ -145,14 +147,6 @@ shashwat = {
 <div align="center">
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ishashwatt&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishashwatt&theme=tokyonight"/>
 
 </div>
 
