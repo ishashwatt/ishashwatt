@@ -165,11 +165,11 @@ shashwat = {
 ## ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [ishashwatt/ishashwatt](https://github.com/ishashwatt/ishashwatt)<br>
-2. ⬆️ Pushed undefined commit(s) to [ishashwatt/ishashwatt](https://github.com/ishashwatt/ishashwatt)<br>
-3. ⬆️ Pushed undefined commit(s) to [ishashwatt/ishashwatt](https://github.com/ishashwatt/ishashwatt)<br>
-4. ⬆️ Pushed undefined commit(s) to [ishashwatt/ishashwatt](https://github.com/ishashwatt/ishashwatt)<br>
-5. ⬆️ Pushed undefined commit(s) to [ishashwatt/ishashwatt](https://github.com/ishashwatt/ishashwatt)<br>
+1. ⬆️ Pushed undefined commit(s) to [ishashwatt/LeetSync](https://github.com/ishashwatt/LeetSync)<br>
+2. ⬆️ Pushed undefined commit(s) to [ishashwatt/LeetSync](https://github.com/ishashwatt/LeetSync)<br>
+3. ⬆️ Pushed undefined commit(s) to [ishashwatt/LeetSync](https://github.com/ishashwatt/LeetSync)<br>
+4. ⬆️ Pushed undefined commit(s) to [ishashwatt/LeetSync](https://github.com/ishashwatt/LeetSync)<br>
+5. ⬆️ Pushed undefined commit(s) to [ishashwatt/LeetSync](https://github.com/ishashwatt/LeetSync)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
