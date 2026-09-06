@@ -168,7 +168,7 @@ shashwat = {
 1. ⬆️ Pushed undefined commit(s) to [ishashwatt/Transacta](https://github.com/ishashwatt/Transacta)<br>
 2. ⬆️ Pushed undefined commit(s) to [ishashwatt/Transacta](https://github.com/ishashwatt/Transacta)<br>
 3. ⬆️ Pushed undefined commit(s) to [ishashwatt/Transacta](https://github.com/ishashwatt/Transacta)<br>
-4. ⬆️ Pushed undefined commit(s) to [ishashwatt/ORQEN-Society-Maintenance-Tracker](https://github.com/ishashwatt/ORQEN-Society-Maintenance-Tracker)<br>
+4. ⬆️ Pushed undefined commit(s) to [ishashwatt/Transacta](https://github.com/ishashwatt/Transacta)<br>
 5. ⬆️ Pushed undefined commit(s) to [ishashwatt/ORQEN-Society-Maintenance-Tracker](https://github.com/ishashwatt/ORQEN-Society-Maintenance-Tracker)<br>
 <!--RECENT_ACTIVITY:end-->
 
