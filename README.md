@@ -165,11 +165,11 @@ shashwat = {
 ## ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [ishashwatt/Transacta](https://github.com/ishashwatt/Transacta)<br>
-2. ⬆️ Pushed undefined commit(s) to [ishashwatt/Transacta](https://github.com/ishashwatt/Transacta)<br>
-3. ⬆️ Pushed undefined commit(s) to [ishashwatt/Transacta](https://github.com/ishashwatt/Transacta)<br>
-4. ⬆️ Pushed undefined commit(s) to [ishashwatt/Transacta](https://github.com/ishashwatt/Transacta)<br>
-5. ⬆️ Pushed undefined commit(s) to [ishashwatt/Transacta](https://github.com/ishashwatt/Transacta)<br>
+1. ⬆️ Pushed undefined commit(s) to [ishashwatt/E-Bot](https://github.com/ishashwatt/E-Bot)<br>
+2. ⬆️ Pushed undefined commit(s) to [ishashwatt/E-Bot](https://github.com/ishashwatt/E-Bot)<br>
+3. ⬆️ Pushed undefined commit(s) to [ishashwatt/E-Bot](https://github.com/ishashwatt/E-Bot)<br>
+4. ⬆️ Pushed undefined commit(s) to [ishashwatt/E-Bot](https://github.com/ishashwatt/E-Bot)<br>
+5. ⬆️ Pushed undefined commit(s) to [ishashwatt/E-Bot](https://github.com/ishashwatt/E-Bot)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
