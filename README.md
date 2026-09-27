@@ -165,8 +165,8 @@ shashwat = {
 ## ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [ishashwatt/E-Bot](https://github.com/ishashwatt/E-Bot)<br>
-2. ⬆️ Pushed undefined commit(s) to [ishashwatt/E-Bot](https://github.com/ishashwatt/E-Bot)<br>
+1. ⬆️ Pushed undefined commit(s) to [ishashwatt/EyeCap](https://github.com/ishashwatt/EyeCap)<br>
+2. ⬆️ Pushed undefined commit(s) to [ishashwatt/EyeCap](https://github.com/ishashwatt/EyeCap)<br>
 3. ⬆️ Pushed undefined commit(s) to [ishashwatt/E-Bot](https://github.com/ishashwatt/E-Bot)<br>
 4. ⬆️ Pushed undefined commit(s) to [ishashwatt/E-Bot](https://github.com/ishashwatt/E-Bot)<br>
 5. ⬆️ Pushed undefined commit(s) to [ishashwatt/E-Bot](https://github.com/ishashwatt/E-Bot)<br>
