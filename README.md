@@ -165,8 +165,6 @@ shashwat = {
 ## ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [ishashwatt/EyeCap](https://github.com/ishashwatt/EyeCap)<br>
-2. ⬆️ Pushed undefined commit(s) to [ishashwatt/EyeCap](https://github.com/ishashwatt/EyeCap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
